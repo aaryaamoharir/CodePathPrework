@@ -6,6 +6,14 @@ ShadeSwitch is an app that allows you to change the background of an app to a ra
 
 Time spent: 1.75 hours spent in total
 
+<div>
+    <a href="https://www.loom.com/share/4e2d90eafac04bda8cbc4670fbb5cf57">
+    </a>
+    <a href="https://www.loom.com/share/4e2d90eafac04bda8cbc4670fbb5cf57">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/4e2d90eafac04bda8cbc4670fbb5cf57-1706245364104-with-play.gif">
+    </a>
+  </div>
+
 ## Required Features
 
 The following **required** functionality is completed:
